@@ -1,0 +1,14 @@
+{
+    "friendlyName": "OllieGames",
+    "version": 1,
+    "screens": [
+        {
+            "width": 2048,
+            "height": 2560,
+            "dpi": 450.0
+        }
+    ],
+    "systemInfo": {
+        "operatingSystem": "Android"
+    }
+}
