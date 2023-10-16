@@ -70,3 +70,14 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/Plugins/Demigiant.meta
+Assets/JMO Assets/Toony Colors Pro/Demo TCP2/Cat Demo URP.unitypackage.meta
+Assets/Imported/Polygon Arsenal/Upgrades/Polygon Arsenal 2019.4 URP.unitypackage.meta
+Assets/Imported/Polygon Arsenal/Upgrades.meta
+Assets/Imported/Polygon Arsenal.meta
+Assets/Imported/kenney_weapon-pack/Unity/weaponPack.unitypackage.meta
+Assets/Imported/kenney_weapon-pack/Unity.meta
+Assets/Imported/kenney_weapon-pack.meta
+Assets/Imported.meta
+*.meta
+Assets/JMO Assets/Toony Colors Pro/Demo TCP2/Cat Demo URP.unitypackage.meta

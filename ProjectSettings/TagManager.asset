@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Cell
+  - Weapon
+  - Bin
+  - World
+  - Target
+  - FX
   layers:
   - Default
   - TransparentFX
@@ -11,11 +17,11 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Cell
+  - Weapon
+  - UICAMERA
+  - bullet
+  - Target
   - 
   - 
   - 
