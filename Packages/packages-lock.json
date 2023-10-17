@@ -8,7 +8,7 @@
       "url": "https://packages.unity.com"
     },
     "com.google.external-dependency-manager": {
-      "version": "file:C:/Users/Миша/Downloads/com.google.external-dependency-manager-1.2.176.tgz",
+      "version": "file:../Assets/GooglePackages/com.google.external-dependency-manager-1.2.176.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {}
