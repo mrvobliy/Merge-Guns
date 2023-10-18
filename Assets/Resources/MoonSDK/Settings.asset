@@ -21,4 +21,4 @@ MonoBehaviour:
   facebookAppId: 1176044790466439
   facebookClientId: e9217bb7d370f1d359ea9ec558a32b1b
   StudioLogo: 1
-  studioLogoSprite: {fileID: 21300000, guid: 0ac41261abfaec14dba9199e817050fe, type: 3}
+  studioLogoSprite: {fileID: 0}
