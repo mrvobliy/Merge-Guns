@@ -15,10 +15,10 @@ MonoBehaviour:
   GameAnalytics: 1
   gameAnalyticsIosGameKey: 
   gameAnalyticsIosSecretKey: 
-  gameAnalyticsAndroidGameKey: ce1d9fa1a68b91f4d58b1d44d5175e8b
-  gameAnalyticsAndroidSecretKey: 8d133bd37fdd6fa84085a7d0c5bcf73ea87ccedb
-  Facebook: 0
-  facebookAppId: 
-  facebookClientId: 
-  StudioLogo: 0
-  studioLogoSprite: {fileID: 0}
+  gameAnalyticsAndroidGameKey: 35e7130bf8935aaafd8758eb2f2b2d65
+  gameAnalyticsAndroidSecretKey: 46d6673ce7444a272df84406a9fabd9dd28525d2
+  Facebook: 1
+  facebookAppId: 1176044790466439
+  facebookClientId: e9217bb7d370f1d359ea9ec558a32b1b
+  StudioLogo: 1
+  studioLogoSprite: {fileID: 21300000, guid: 0ac41261abfaec14dba9199e817050fe, type: 3}

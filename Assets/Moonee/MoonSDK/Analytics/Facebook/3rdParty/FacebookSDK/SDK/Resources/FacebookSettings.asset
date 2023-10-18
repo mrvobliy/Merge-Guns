@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   selectedAppIndex: 0
   clientTokens:
-  - 
+  - e9217bb7d370f1d359ea9ec558a32b1b
   appIds:
-  - 123456
+  - 1176044790466439
   appLabels:
-  - 
+  - Megre Guns
   cookie: 1
   logging: 1
   status: 1
